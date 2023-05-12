@@ -1,2 +1,1 @@
-# pret_c_henry
-es el repositorio de prueba 
+es una prueba para hacer un clon de este archivo el cual sera utilisado de prueba como se mensiona 
